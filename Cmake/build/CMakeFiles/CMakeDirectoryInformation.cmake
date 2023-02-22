@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/workspaces/learn-git/Cmake")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/workspaces/learn-git/Cmake")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/workspaces/learn-git/Cmake/build")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)
