@@ -24,7 +24,6 @@
 
 
 ## 2. 🗄️ Create a ssh file "run_cmake.sh" 
-	(Small script for CMake) 
 
 	#!/bin/bash
 
@@ -39,7 +38,6 @@
 	chmod +x run_cmake.sh	// Get Execution rights
 	./run_cmake.sh 		// Run the script
 
-	-> Build the folder 
 	
 
 ## 4. 🏗️ Build your project 
