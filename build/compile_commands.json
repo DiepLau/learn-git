@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/learn-git/build",
+  "command": "/usr/bin/clang -g -Wall -Wextra -Werror -pedantic -O0 -std=gnu11 -o CMakeFiles/leapyear.dir/1.4_Leap_Year.c.o -c \"/workspaces/learn-git/Homework/1.4 CMake/1.4 Leap Year.c\"",
+  "file": "/workspaces/learn-git/Homework/1.4 CMake/1.4 Leap Year.c"
+}
+]
