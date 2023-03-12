@@ -12,4 +12,7 @@ set(CMAKE_C_STANDARD_REQUIRED True)
 add_compile_options(-Wall -Wextra -Werror -pedantic -O0)
 
 # add an executabel and assign files to it
-add_executable(cmake_example_exec cmake.c)
+add_executable(student src/student_struct.c)
+
+target_include_directories(student PUBLIC include)
+
